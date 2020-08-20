@@ -1,0 +1,9 @@
+<suite name="testsuite">
+<test name="mytest">
+<classes>
+<class name="Jenkins.Test1" />
+<class name="Jenkins.Test2" />
+<class name="Jenkins.Test3" />
+</classes>
+</test>
+</suite>

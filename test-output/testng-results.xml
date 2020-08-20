@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="99" started-at="2020-08-20T16:31:22 IST" finished-at="2020-08-20T16:31:22 IST">
+    <groups>
+    </groups>
+    <test name="mytest" duration-ms="99" started-at="2020-08-20T16:31:22 IST" finished-at="2020-08-20T16:31:22 IST">
+      <class name="Jenkins.Test2">
+        <test-method status="PASS" signature="tes2()[pri:0, instance:Jenkins.Test2@1f36e637]" name="tes2" duration-ms="1" started-at="2020-08-20T16:31:22 IST" finished-at="2020-08-20T16:31:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tes2 -->
+      </class> <!-- Jenkins.Test2 -->
+      <class name="Jenkins.Test3">
+        <test-method status="PASS" signature="tes3()[pri:0, instance:Jenkins.Test3@578486a3]" name="tes3" duration-ms="1" started-at="2020-08-20T16:31:22 IST" finished-at="2020-08-20T16:31:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tes3 -->
+      </class> <!-- Jenkins.Test3 -->
+      <class name="Jenkins.Test1">
+        <test-method status="PASS" signature="tes1()[pri:0, instance:Jenkins.Test1@2758fe70]" name="tes1" duration-ms="33" started-at="2020-08-20T16:31:22 IST" finished-at="2020-08-20T16:31:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tes1 -->
+      </class> <!-- Jenkins.Test1 -->
+    </test> <!-- mytest -->
+  </suite> <!-- testsuite -->
+</testng-results>
